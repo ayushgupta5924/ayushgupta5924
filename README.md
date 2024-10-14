@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Gupta</h1>
-<h3 align="center">A Data Science enthusiast and flutter developer</h3>
+<h3 align="center">A Mobile Application Developer and Data Science enthusiast</h3>
 
 - 🌱 I’m currently learning **Data science and yfinance**
 
